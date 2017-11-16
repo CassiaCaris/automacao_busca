@@ -1,5 +1,6 @@
 # Test_capybara
-Teste para Buscar um determina site no google Chrome
+Teste para Buscar um determina site no google 
+utiliando a ferramenta Chrome
 
 automacao_busca
 
@@ -9,12 +10,11 @@ Foi realizada a automação do teste entre Capybara + Cucumber
 
 Passo a passo no Prompt de commando#
 
-Instalar o Bundler no diretório text_capybara:
-
+- Instalar o Bundler no diretório text_capybara:
 gem install bundler
-verificar as gems necessarias para instalar
 
+- verificar as gems necessarias para instalar
 bundle install
-Para executar o teste (analisar o resultado)
 
+- Para executar o teste (analisar o resultado)
 cucumber
